@@ -30,3 +30,4 @@
 /Users/bahnii/Desktop/Collage/Jereb/LW4-6/job/RecipeApi/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerGen.dll
 /Users/bahnii/Desktop/Collage/Jereb/LW4-6/job/RecipeApi/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerUI.dll
 /Users/bahnii/Desktop/Collage/Jereb/LW4-6/job/RecipeApi/obj/Debug/net8.0/RecipeApi.csproj.Up2Date
+/Users/bahnii/Desktop/Collage/Jereb/LW4-6/job/RecipeApi/obj/Debug/net8.0/RecipeApi.sourcelink.json

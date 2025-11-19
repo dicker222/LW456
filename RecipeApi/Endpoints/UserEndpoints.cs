@@ -50,7 +50,6 @@ namespace RecipeApi.Endpoints
                 return Results.Ok(existingUser); 
             });
 
-            // DELETE
             group.MapDelete("/{id:int}", (int id) =>
             {
                 var user = users.FirstOrDefault(u => u.Id == id);
