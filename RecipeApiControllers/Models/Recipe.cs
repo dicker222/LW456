@@ -7,7 +7,6 @@ namespace RecipeApiControllers.Models
         public string Description { get; set; } = string.Empty;
         public int CategoryId { get; set; }
         
-        // Поле типу Enum
         public Difficulty DifficultyLevel { get; set; } 
     }
 }

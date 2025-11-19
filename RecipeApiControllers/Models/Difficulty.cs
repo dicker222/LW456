@@ -1,6 +1,5 @@
 namespace RecipeApiControllers.Models
 {
-    // Enum (перерахування) гарантує, що складність може бути тільки однією з цих трьох.
     public enum Difficulty
     {
         Easy = 1,
